@@ -4,7 +4,6 @@
 -  tho i already have some hands-on experience with AI, Machine Learning, and Generative AI through various projects. Open to collaboration on data science/analytics projects.
 -  building PCs like its lego is my JAM.
 -  my other skills (other than tech) include playing guitar (mostly metal and rock), even though it's been quite a while since i played, but i always love it when i do. video and photo editing, with almost 3-4 years of experience. i also love playing sports like football, table tennis, and badminton.
--  i absolutely LOVE Souls game (games by FromSoftware), literally completed sekiro like 10 times 💀
 -  currently learning german cuz why not :)
 -  How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/deveshdanthara/) 
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:xa.devesh.danthara@gmail.com)
