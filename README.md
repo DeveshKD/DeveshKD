@@ -15,7 +15,7 @@
     <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,docker,postman,aws,vscode,anaconda,github,photoshop,aftereffects"/><br>
 </p>
 
-<h2 align="center">Some Stats (ik i suck)</h2>
+<h2 align="center">Some Stats</h2>
 
 <p align="center">
   <img height=200  src="https://github-readme-stats.vercel.app/api?username=DeveshKD&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=merko" />
